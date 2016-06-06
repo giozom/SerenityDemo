@@ -1,0 +1,5 @@
+com/giozom/serenity/AcceptanceTestSuite.class
+com/giozom/serenity/steps/serenity/EndUserSteps.class
+com/giozom/serenity/steps/DefinitionSteps.class
+com/giozom/serenity/pages/DictionaryPage.class
+com/giozom/serenity/pages/DictionaryPage$1.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.giozom.serenity.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.863 sec - in com.giozom.serenity.AcceptanceTestSuite
