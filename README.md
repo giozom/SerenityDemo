@@ -9,7 +9,8 @@
 
 ### Getting started
 * git clone _repo_
-* Using your preferred IDE. IntelliJ, Eclipse etc... open the project **_SerenityDemo_** > _mySerenity_
+* Using your preferred IDE: IntelliJ, Eclipse etc... 
+   * Open the project **_SerenityDemo_** > _mySerenity_
 * Ensure your maven _setting.xml_ file has the following _pluginGroups_ (go to ~/maven/conf/settings.xml)
 
     **_<pluginGroups><pluginGroup>net.serenity-bdd.maven.plugins</pluginGroup></pluginGroups>_**
