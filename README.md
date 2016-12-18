@@ -15,7 +15,7 @@
 
     **_<pluginGroups><pluginGroup>net.serenity-bdd.maven.plugins</pluginGroup></pluginGroups>_**
 * From command line, go to your project location _~/SerenityDemo/mySerenity_ 
-* Type **_mvn clean verify serenity:aggregate -Dmaven.test.failure.ignore=true_**
+* Type <code>mvn clean verify serenity:aggregate -Dmaven.test.failure.ignore=true</code>
 * By default, it will launch Firefox
 
 ### Serenity Report
